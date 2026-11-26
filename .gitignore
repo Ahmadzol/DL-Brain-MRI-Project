@@ -1,0 +1,29 @@
+# Downloaded datasets; the notebook downloads them again into data/raw/
+data/
+
+# Model weights
+results/checkpoints/
+*.pt
+*.pth
+
+# Jupyter and Python temporary files
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Python virtual environments
+.env/
+.venv/
+venv/
+
+# Logs
+*.log
+
+# Credentials
+kaggle.json
+*.kaggle*
+kaggle API.txt
+
+# System files
+.DS_Store
+Thumbs.db

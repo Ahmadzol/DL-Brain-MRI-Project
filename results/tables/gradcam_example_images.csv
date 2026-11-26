@@ -1,0 +1,7 @@
+idx,rel,label
+1106,Training/glioma/Tr-gl_734.jpg,0
+5727,Testing/glioma/Te-gl_213.jpg,0
+1829,Training/meningioma/Tr-me_1295.jpg,1
+1884,Training/meningioma/Tr-me_174.jpg,1
+4222,Training/pituitary/Tr-pi_1018.jpg,3
+4337,Training/pituitary/Tr-pi_1121.jpg,3

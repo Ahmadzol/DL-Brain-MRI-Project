@@ -1,0 +1,11 @@
+# PyTorch and torchvision are NOT listed here on purpose: the training machine uses the
+# ROCm (AMD GPU) build, which must not be replaced by the default pip build.
+numpy
+pandas
+scikit-learn
+pillow
+matplotlib
+h5py
+jupyter
+nbformat
+kaggle
